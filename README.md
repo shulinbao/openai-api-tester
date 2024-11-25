@@ -1,4 +1,7 @@
 # openai-api-tester
+
+[English](https://github.com/shulinbao/openai-api-tester/blob/main/README-en.md)
+
 一个可以部署在cloudflare worker上的Openai格式API测试工具
 目前可以实现以下功能：
 - 多个渠道的API测试，需要填写`API_ENDPOINTS`环境变量
