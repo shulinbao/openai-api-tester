@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="openai-api-tester.jpg" alt="Project Logo" width="200">
+</p>
+
 # openai-api-tester
 
 [中文](https://github.com/shulinbao/openai-api-tester)
